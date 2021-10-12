@@ -7,3 +7,6 @@ function changeBg2(){
 function changeBg3(){
     document.body.style.background = "linear-gradient(0.25turn,#e66465, #9198e5)";
 }
+function changeBg4(){
+    document.body.style.background = "linear-gradient(0.25turn, #93B5C6, #C9CCD5, #E4D8DC, #FFE3E3)";
+}
